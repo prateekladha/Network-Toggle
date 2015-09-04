@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Network Toggle</string>
+    <string name="placeholder"></string>
+    <string name="data_on">Enabling data service.</string>
+    <string name="data_off">Disabling data service.</string>
+    <string name="wifi_on">Enabling wifi service.</string>
+    <string name="wifi_off">Disabling wifi service.</string>
+    <string name="airplane_on">Enabling airplane service.</string>
+    <string name="airplane_off">Disabling airplane service.</string>
+</resources>
